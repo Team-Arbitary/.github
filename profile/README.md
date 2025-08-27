@@ -25,8 +25,8 @@ React-based frontend for:
 
 ## 🛠️ Tech Stack
 - **Backend:** Java 21, Spring Boot, PostgreSQL, Maven  
-- **Frontend:** React, Tailwind CSS, Axios  
-- **AI Models:** Deep learning for anomaly detection  
+- **Frontend:** React, Node.js  
+- **AI Models:** Custom PyTorch Deep learning models for anomaly detection  
 
 ---
 
