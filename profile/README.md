@@ -1,0 +1,32 @@
+# Team-Arbitrary – Arbit Project
+
+Welcome to **Team-Arbitrary's Arbit Project**, an AI-powered system for transformer thermal image management and analysis.  
+Our goal is to improve power system reliability by detecting anomalies and monitoring transformer health through thermal imaging and machine learning.
+
+---
+
+## 📂 Repositories
+
+### 🔹 [Arbit Backend](https://github.com/Team-Arbitrary/arbit-backend)
+Spring Boot–based backend that provides APIs for:
+- Managing transformer thermal images  
+- Running AI-powered anomaly detection  
+- Delivering transformer health scores and reports  
+
+### 🔹 [Arbit Frontend](https://github.com/Team-Arbitrary/arbit-frontend)
+React-based frontend for:
+- Uploading and visualizing thermal images  
+- Displaying anomaly detection results  
+- Monitoring transformer health dashboards  
+
+---
+
+## 🛠️ Tech Stack
+- **Backend:** Java 21, Spring Boot, PostgreSQL, Maven  
+- **Frontend:** React, Tailwind CSS, Axios  
+- **AI Models:** Deep learning for anomaly detection  
+
+---
+
+## 🚀 Vision
+Arbit is designed to support **smart grid monitoring** by combining AI with intuitive web tools, making transformer maintenance more efficient and reliable.  
