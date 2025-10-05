@@ -19,7 +19,7 @@ React-based frontend for:
 - Displaying anomaly detection results  
 - Monitoring transformer health dashboards
 
-![Arbit_Pipline](https://github.com/Team-Arbitary/.github/blob/main/images/pipline.png?raw=true)
+![Arbit_Pipline](https://github.com/Team-Arbitary/.github/blob/main/images/Arbit_pipline2.jpeg?raw=true)
 
 ---
 
