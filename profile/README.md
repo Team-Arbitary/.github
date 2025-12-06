@@ -19,6 +19,11 @@ React-based frontend for:
 - Displaying anomaly detection results  
 - Monitoring transformer health dashboards
 
+### 🔹 [Arbit Transformer AI Analysis](https://github.com/Team-Arbitary/Arbit-Transformer-Analysis)
+FastAPI-based AI codebase as the API for:
+- ML analysis: an autoencoder-based anomaly detector (red boxes)
+- Thermal analysis: hotspot detection using the red channel (yellow boxes)
+
 ![Arbit_Pipline](https://github.com/Team-Arbitary/.github/blob/main/images/Arbit_pipline2.jpeg?raw=true)
 
 ---
