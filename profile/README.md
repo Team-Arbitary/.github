@@ -7,19 +7,19 @@ Our goal is to improve power system reliability by detecting anomalies and monit
 
 ## 📂 Repositories
 
-### 🔹 [Arbit Backend](https://github.com/Team-Arbitary/Arbit-Backend/)
+### 🔹 [Arbit Backend 📂](https://github.com/Team-Arbitary/Arbit-Backend/)
 Spring Boot–based backend that provides APIs for:
 - Managing transformer thermal images  
 - Running AI-powered anomaly detection  
 - Delivering transformer health scores and reports  
 
-### 🔹 [Arbit Frontend](https://github.com/Team-Arbitary/Arbit-Frontend/)
+### 🔹 [Arbit Frontend 📂](https://github.com/Team-Arbitary/Arbit-Frontend/)
 React-based frontend for:
 - Uploading and visualizing thermal images  
 - Displaying anomaly detection results  
 - Monitoring transformer health dashboards
 
-### 🔹 [Arbit Transformer AI Analysis](https://github.com/Team-Arbitary/Arbit-Transformer-Analysis)
+### 🔹 [Arbit Transformer AI Analysis 📂](https://github.com/Team-Arbitary/Arbit-Transformer-Analysis)
 FastAPI-based AI codebase as the API for:
 - ML analysis: an autoencoder-based anomaly detector (red boxes)
 - Thermal analysis: hotspot detection using the red channel (yellow boxes)
