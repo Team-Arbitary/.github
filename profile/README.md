@@ -24,6 +24,9 @@ FastAPI-based AI codebase as the API for:
 - ML analysis: an autoencoder-based anomaly detector (red boxes)
 - Thermal analysis: hotspot detection using the red channel (yellow boxes)
 
+---
+# Arbit System Pipeline
+
 ![Arbit_Pipline](https://github.com/Team-Arbitary/.github/blob/main/images/Arbit_pipline2.jpeg?raw=true)
 
 ---
